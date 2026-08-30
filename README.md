@@ -7,5 +7,5 @@ Disclaimer! Here I publish my methods for solving CTF, while simultaneously impr
 This category focuses on PCAP files.
 |Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|
 |-|-|-|-|-|-|
-|FIRST TO LAST|[PDF]()|[malware-traffic](https://www.malware-traffic-analysis.net/2026/08/09/index.html)|🟡 Medium|⭐⭐⭐⭐⭐|`Wireshark`|
+|FIRST TO LAST|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/FIRST%20TO%20LAST-Writeup.pdf)|[malware-traffic](https://www.malware-traffic-analysis.net/2026/08/09/index.html)|🟢 Easy|⭐⭐⭐|`Wireshark`|
 |EASY AS 123|[PDF]()|[malware-traffic](https://www.malware-traffic-analysis.net/2026/02/28/index.html)|🟢 Easy|⭐⭐⭐⭐⭐|`Wireshark`|
