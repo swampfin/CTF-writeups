@@ -9,3 +9,11 @@ This category focuses on PCAP files.
 |-|-|-|-|-|-|
 |FIRST TO LAST|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/FIRST%20TO%20LAST-Writeup.pdf)|[malware-traffic](https://www.malware-traffic-analysis.net/2026/08/09/index.html)|🟢 Easy|⭐⭐⭐|`Wireshark`|
 |EASY AS 123|[PDF]()|[malware-traffic](https://www.malware-traffic-analysis.net/2026/02/28/index.html)|🟢 Easy|⭐⭐⭐⭐⭐|`Wireshark`|
+
+### **Treat Hunting** 👨‍💻
+
+This category focuses on threat hunting and identifying malicious activity.
+
+|Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|
+|-|-|-|-|-|-|
+|Hunt Me I: Payment Collectors|[PDF]()|[Try-Hack-Me](https://tryhackme.com/room/paymentcollectors)|🟠 Medium|⭐⭐⭐⭐⭐|`KQL`|
