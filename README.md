@@ -16,4 +16,4 @@ This category focuses on threat hunting and identifying malicious activity.
 
 |Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|
 |-|-|-|-|-|-|
-|Hunt Me I: Payment Collectors|[PDF]()|[Try-Hack-Me](https://tryhackme.com/room/paymentcollectors)|🟠 Medium|⭐⭐⭐⭐⭐|`KQL`|
+|Hunt Me I: Payment Collectors|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Hunt%20Me%20I%3A%20Payment%20Collectors-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/paymentcollectors)|🟠 Medium|⭐⭐⭐⭐⭐|`KQL`|
