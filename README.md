@@ -9,6 +9,7 @@ Disclaimer! Here I publish my methods for solving CTF, while simultaneously impr
 ### **Treat Hunting** 👨‍💻
 |Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|Date|
 |-|-|-|-|-|-|-|
+|Zero Tolerance|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Zero%20Tolerance-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/zerotolerance)|🟠 Medium|⭐⭐⭐⭐⭐|`Splunk`|15/10/26|
 |The O365 Intrusion|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/The%20O365%20Intrusion-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/theo365intrusion)|🟠 Medium|⭐⭐⭐⭐|`Splunk`,`O365`|12/10/26|
 |Boogeyman 3|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Boogeyman%203-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/boogeyman3)|🟠 Medium|⭐⭐⭐⭐|`Elastic(KQL)`|20/09/26|
 |Hunt Me II: Typo Squatters|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Hunt%20Me%20II%3A%20Typo%20Squatters-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/typosquatters)|🟠 Medium|⭐⭐⭐|`Elastic(KQL)`|1/09/26|
