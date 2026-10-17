@@ -4,10 +4,6 @@ Welcome to my write-up repository! Here, I document my try to solve Capture The 
 The ratings are based on my personal opinion.
 
 Disclaimer! Here I publish my methods for solving CTF, while simultaneously improving my technical skills. Frankly, for this reason, the reports themselves can be poorly.
-# Table of Content
-- [Treat Hunting](https://github.com/swampfin/CTF-writeups#treat-hunting)
-- [Network Forensics](https://github.com/swampfin/CTF-writeups#network-forensics)
-- [Email Analysis](https://github.com/swampfin/CTF-writeups#email-analysis)
 
 <br>
 
