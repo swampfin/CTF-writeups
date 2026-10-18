@@ -10,6 +10,7 @@ Disclaimer! Here I publish my methods for solving CTF, while simultaneously impr
 ### **Treat Hunting** 👨‍💻
 |Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|Date|
 |-|-|-|-|-|-|-|
+|Just a VPN Login|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Just%20a%20VPN%20Login-Writeup.pdf)|[Try-Hack-me](https://tryhackme.com/room/justavpnlogin)|🟢 Easy|⭐⭐|`Threat Intelligence`,`VirusTotal`|19/10/26|
 |Portal Drop|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Portal%20Drop-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/portaldrop)|🟢 Easy|⭐⭐⭐⭐|`EDR`,`WebLog`|17/10/26|
 |Zero Tolerance|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Zero%20Tolerance-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/zerotolerance)|🟠 Medium|⭐⭐⭐⭐⭐|`Splunk`|15/10/26|
 |The O365 Intrusion|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/The%20O365%20Intrusion-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/theo365intrusion)|🟠 Medium|⭐⭐⭐⭐|`Splunk`,`O365`|12/10/26|
@@ -31,4 +32,4 @@ Disclaimer! Here I publish my methods for solving CTF, while simultaneously impr
 
 <br><br><br>
 **TryHackme**🔮<br>
-[swampfin](https://tryhackme.com/p/swampfin) — **Top 2% rank** 🏆
+[swampfin](https://tryhackme.com/p/swampfin) — **Top 1% rank** 🏆
