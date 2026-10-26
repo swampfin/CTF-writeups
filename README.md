@@ -10,6 +10,8 @@ Disclaimer! Here I publish my methods for solving CTF, while simultaneously impr
 ### **Treat Hunting** 👨‍💻
 |Challenge|Writeup|Challenge Link|Difficulty|Rating|Tags|Date|
 |-|-|-|-|-|-|-|
+|Promotion Night|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Promotion%20Night-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/promotionnight)|🟠 Medium|⭐⭐⭐⭐|`Splunk`,`CyberChef`|26/10/26|
+|The Finance Trail|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/The%20Finance%20Trail-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/thefinancetrail)|🟠 Medium|⭐⭐⭐⭐|`Splunk`|26/10/26|
 |Just a VPN Login|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Just%20a%20VPN%20Login-Writeup.pdf)|[Try-Hack-me](https://tryhackme.com/room/justavpnlogin)|🟢 Easy|⭐⭐|`Threat Intelligence`,`VirusTotal`|19/10/26|
 |Portal Drop|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Portal%20Drop-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/portaldrop)|🟢 Easy|⭐⭐⭐⭐|`EDR`,`WebLog`|17/10/26|
 |Zero Tolerance|[PDF](https://github.com/swampfin/CTF-writeups/blob/main/writeups/Zero%20Tolerance-Writeup.pdf)|[Try-Hack-Me](https://tryhackme.com/room/zerotolerance)|🟠 Medium|⭐⭐⭐⭐⭐|`Splunk`|15/10/26|
